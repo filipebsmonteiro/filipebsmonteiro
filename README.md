@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/filipbebsmonteiro/filipbebsmonteiro/master/assets/coding.jpg" width="350"/>
+<img align="right" src="https://raw.githubusercontent.com/filipebsmonteiro/filipebsmonteiro/main/happy-enginner.png" width="350"/>
 
 ### Hello, I'm Filipe Monteiro. 👋
 
